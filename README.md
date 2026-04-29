@@ -6,6 +6,10 @@ This given repository contains the files used in the pipeline containing three d
 * EfficientNetB0
 * DenseNet121
 
+Tensorflow versions are included in the files.
+
+Run "pip install numpy, matplotlib, pandas, sklearn, seaborn" to get the other dependencies.
+
 Explainable AI (XAI) is applied on all of them using four methods
 * GradCAM
 * GradCAM++
